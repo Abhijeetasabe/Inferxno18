@@ -3,5 +3,3 @@
 ... cy=int(input("enter the current year"))
 ... age=cy-doy
 ... print("dear",name,"!!!! you are",age,"years old")
-... 
-... width=float(input("enter
